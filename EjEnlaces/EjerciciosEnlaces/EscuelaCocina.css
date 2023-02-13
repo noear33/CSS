@@ -1,0 +1,41 @@
+body{
+    background-color: #fdfbf1;
+}
+h1{
+   background-color: burlywood; 
+   text-align: center;
+   color:white
+}
+h2,h3{
+    background-color: burlywood;
+    color: white;
+}
+dt{
+    font-variant: small-caps;
+    font-weight: bolder;
+}
+ul{
+    list-style-type: square;
+}
+ul ul{
+    list-style-type: circle;
+}
+ol{
+    list-style-type: lower-roman;
+}
+ul.definiciones{
+    background-color: #f0e7db;
+    border-left: 5px solid burlywood ;
+    padding-inline-start: 0px;
+}
+li.tipos{
+    list-style-type: square;
+}
+li::first-letter{
+    size: 1.25em;
+    font-style: italic;
+}
+em{
+    color: blue;
+    text-decoration: underline;
+}

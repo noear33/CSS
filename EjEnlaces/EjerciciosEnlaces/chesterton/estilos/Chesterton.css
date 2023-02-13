@@ -1,0 +1,33 @@
+body{
+    background-color:sienna;
+    color: white;
+}
+.titulo{
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    
+}
+a{
+    text-align: center;
+    
+}
+.enlace{
+    text-align: center;
+    color:cornflowerblue;
+    background-color: antiquewhite;
+    border:2px solid cornflowerblue;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+}
+
+    
+
+b{
+    font-size: 30px;
+}
+.imagen{
+    text-align: center;
+}
